@@ -1,0 +1,91 @@
+[12:04:35 - main] [Cooja.java:3181] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[12:04:36 - AWT-EventQueue-0] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux_64.config
+[12:04:36 - AWT-EventQueue-0] [Cooja.java:2895] [INFO] - External tools user settings: /home/harishnr/.cooja.user.properties
+[12:04:52 - AWT-EventQueue-0] [Simulation.java:420] [INFO] - Simulation random seed: 123456
+[12:04:52 - AWT-EventQueue-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[12:05:05 - AWT-EventQueue-0] [Cooja.java:4146] [WARN] - Path is not portable: '/home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:09 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:09 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:09 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:09 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:09 - AWT-EventQueue-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv.sky
+[12:05:16 - Thread-1] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1612695916258
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $4692
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $4698
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $469e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46de
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46e4
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $46ea
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46de
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46e4
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $46ea
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46de
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46e4
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $46ea
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $4692
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $4698
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 5: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $469e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 4: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4668
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $466c
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $466e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0d at $4686
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0b at $46c0
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 3: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $46c8
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a15 at $474e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $4756
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a11 at $475a
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a15 at $474e
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a0f at $4756
+[12:05:23 - Thread-1] [MspMote.java:229] [WARN] - 2: # MSP430[MISALIGNED_READ]: **** Illegal read - misaligned word from $1a11 at $475a
+[12:06:02 - Thread-1] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1612695962599	Duration: 46341 ms	Simulated time 46335 ms	Ratio 0.9998705250210397
+[12:06:10 - AWT-EventQueue-0] [Cooja.java:3497] [INFO] - Saved to file: /home/harishnr/NES/src/nes/AODV/AODV_RERR/aodv_rerr.csc

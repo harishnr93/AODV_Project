@@ -1,0 +1,1634 @@
+503	ID:2	Rime started with address 2.0
+513	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 2.
+522	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+527	ID:2	uIP started with IP address 172.16.2.0
+533	ID:2	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+535	ID:2	## Start of AODV ##
+616	ID:4	Rime started with address 4.0
+625	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 4.
+634	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+639	ID:4	uIP started with IP address 172.16.4.0
+645	ID:4	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+647	ID:4	## Start of AODV ##
+649	ID:1	Rime started with address 1.0
+659	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 1.
+668	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+673	ID:1	uIP started with IP address 172.16.1.0
+679	ID:1	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+681	ID:1	## Start of AODV ##
+982	ID:5	Rime started with address 5.0
+992	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 5.
+1001	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1006	ID:5	uIP started with IP address 172.16.5.0
+1012	ID:5	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+1014	ID:5	## Start of AODV ##
+1167	ID:3	Rime started with address 3.0
+1176	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 3.
+1185	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1190	ID:3	uIP started with IP address 172.16.3.0
+1196	ID:3	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+1198	ID:3	## Start of AODV ##
+5011	ID:5	** Discovery Table **
+5011	ID:5	
+5015	ID:5	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 5 |
+5015	ID:5	
+5019	ID:5	# Broadcasting RREQ toward 1 
+5019	ID:5	
+5022	ID:5	# | Entry : 1, Node : 5 | Dest : 1 | 
+5146	ID:2	# RREQ received from 5 
+5146	ID:2	
+5149	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 |
+5151	ID:2	** Discovery Table **
+5151	ID:2	
+5155	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 5 |
+5155	ID:2	
+5158	ID:2	# Broadcasting RREQ toward 1 
+5159	ID:2	
+5162	ID:2	# | Entry : 1, Node : 5 | Dest : 1 | 
+5185	ID:3	# RREQ received from 2 
+5185	ID:3	
+5188	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 |
+5190	ID:3	** Discovery Table **
+5191	ID:3	
+5194	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 2 |
+5195	ID:3	
+5198	ID:3	# Broadcasting RREQ toward 1 
+5198	ID:3	
+5201	ID:3	# | Entry : 1, Node : 5 | Dest : 1 | 
+5252	ID:5	# RREQ received from 2 
+5252	ID:5	
+5255	ID:5	# | Entry : 1 | Node : 5 | Dest : 1 |
+5257	ID:4	# RREQ received from 2 
+5257	ID:4	
+5257	ID:5	# Dropping duplicated RREQ !!
+5261	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 |
+5262	ID:4	** Discovery Table **
+5263	ID:4	
+5266	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 2 |
+5267	ID:4	
+5270	ID:4	# Broadcasting RREQ toward 1 
+5270	ID:4	
+5273	ID:4	# | Entry : 1, Node : 5 | Dest : 1 | 
+5293	ID:1	# RREQ received from 2 
+5294	ID:1	
+5297	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+5300	ID:1	# Sending RREP toward 5 via 2 
+5300	ID:1	
+5304	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+5397	ID:2	# RREP received from 1 
+5397	ID:2	
+5401	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+5403	ID:2	** Routing Table ** 
+5403	ID:2	
+5407	ID:2	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 1 | 
+5407	ID:2	
+5410	ID:2	# Sending RREP toward 5 via 5 
+5411	ID:2	
+5415	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+5418	ID:1	# RREQ received from 4 
+5419	ID:1	
+5422	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+5425	ID:1	# Sending RREP toward 5 via 4 
+5425	ID:1	
+5429	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+5435	ID:3	# RREQ received from 4 
+5436	ID:3	
+5439	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 |
+5441	ID:3	# Dropping duplicated RREQ !!
+5522	ID:2	# RREQ received from 4 
+5522	ID:2	
+5525	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 |
+5527	ID:2	** Discovery Table **
+5527	ID:2	
+5531	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+5531	ID:2	
+5534	ID:2	# Broadcasting RREQ toward 1 
+5535	ID:2	
+5538	ID:2	# | Entry : 1, Node : 5 | Dest : 1 | 
+5558	ID:3	# RREQ received from 2 
+5559	ID:3	
+5562	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 |
+5564	ID:3	# Dropping duplicated RREQ !!
+5625	ID:5	# RREQ received from 2 
+5625	ID:5	
+5628	ID:5	# | Entry : 1 | Node : 5 | Dest : 1 |
+5630	ID:4	# RREQ received from 2 
+5631	ID:4	
+5631	ID:5	# Dropping duplicated RREQ !!
+5634	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 |
+5636	ID:4	# Dropping duplicated RREQ !!
+5667	ID:1	# RREQ received from 2 
+5667	ID:1	
+5670	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+5673	ID:1	# Sending RREP toward 5 via 2 
+5674	ID:1	
+5678	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+5747	ID:5	# RREP received from 2 
+5748	ID:5	
+5751	ID:5	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+5753	ID:5	** Routing Table ** 
+5753	ID:5	
+5757	ID:5	# | Next : 2 | Dest : 1 | Dist : 2 | SeqNo : 1 | 
+5758	ID:5	
+5882	ID:4	# RREP received from 1 
+5883	ID:4	
+5886	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+5888	ID:4	** Routing Table ** 
+5888	ID:4	
+5892	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 1 | 
+5893	ID:4	
+5896	ID:4	# Sending RREP toward 5 via 2 
+5896	ID:4	
+5897	ID:2	# RREP received from 1 
+5897	ID:2	
+5900	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+5901	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+6021	ID:2	# RREP received from 4 
+6021	ID:2	
+6025	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+6134	ID:4	# RREQ received from 3 
+6134	ID:4	
+6137	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 |
+6139	ID:4	** Discovery Table **
+6139	ID:4	
+6143	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+6143	ID:4	
+6146	ID:4	# Broadcasting RREQ toward 1 
+6147	ID:4	
+6148	ID:2	# RREQ received from 3 
+6148	ID:2	
+6150	ID:4	# | Entry : 1, Node : 5 | Dest : 1 | 
+6151	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 |
+6154	ID:2	# Dropping duplicated RREQ !!
+6167	ID:1	# RREQ received from 3 
+6168	ID:1	
+6171	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+6174	ID:1	# Sending RREP toward 5 via 3 
+6174	ID:1	
+6178	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+6309	ID:3	# RREP received from 1 
+6310	ID:3	
+6313	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+6315	ID:3	** Routing Table ** 
+6315	ID:3	
+6319	ID:3	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 1 | 
+6320	ID:3	
+6323	ID:3	# Sending RREP toward 5 via 2 
+6323	ID:3	
+6327	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+6395	ID:2	# RREP received from 3 
+6395	ID:2	
+6399	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 2 | 
+6646	ID:2	# RREQ received from 4 
+6646	ID:2	
+6649	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 |
+6651	ID:2	# Dropping duplicated RREQ !!
+6668	ID:1	# RREQ received from 4 
+6668	ID:1	
+6671	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+6674	ID:1	# Sending RREP toward 5 via 4 
+6675	ID:1	
+6679	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+6682	ID:3	# RREQ received from 4 
+6682	ID:3	
+6685	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 |
+6687	ID:3	** Discovery Table **
+6687	ID:3	
+6691	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+6691	ID:3	
+6694	ID:3	# Broadcasting RREQ toward 1 
+6695	ID:3	
+6698	ID:3	# | Entry : 1, Node : 5 | Dest : 1 | 
+6882	ID:4	# RREP received from 1 
+6882	ID:4	
+6886	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+7008	ID:4	# RREQ received from 3 
+7009	ID:4	
+7012	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 |
+7014	ID:4	# Dropping duplicated RREQ !!
+7022	ID:2	# RREQ received from 3 
+7023	ID:2	
+7026	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 |
+7028	ID:2	# Dropping duplicated RREQ !!
+7042	ID:1	# RREQ received from 3 
+7042	ID:1	
+7045	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 |
+7048	ID:1	# Sending RREP toward 5 via 3 
+7048	ID:1	
+7052	ID:1	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+7183	ID:3	# RREP received from 1 
+7183	ID:3	
+7187	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Dist : 1 | 
+21197	ID:3	# Sending DATA {**NES_PROJECT**} to 1 
+21292	ID:1	# DATA RECEIVED: {**NES_PROJECT**} 
+22678	ID:1	** Discovery Table **
+22678	ID:1	
+22682	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+22682	ID:1	
+22685	ID:1	# Broadcasting RREQ toward 2 
+22686	ID:1	
+22689	ID:1	# | Entry : 1, Node : 1 | Dest : 2 | 
+22759	ID:4	# RREQ received from 1 
+22759	ID:4	
+22762	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 |
+22764	ID:4	** Discovery Table **
+22764	ID:4	
+22768	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+22768	ID:4	
+22770	ID:2	# RREQ received from 1 
+22770	ID:2	
+22772	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+22772	ID:4	
+22773	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 |
+22775	ID:4	# Broadcasting RREQ toward 2 
+22776	ID:4	
+22776	ID:2	# Sending RREP toward 1 via 1 
+22777	ID:2	
+22779	ID:4	# | Entry : 1, Node : 1 | Dest : 2 | 
+22781	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+22809	ID:3	# RREQ received from 1 
+22809	ID:3	
+22812	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 |
+22814	ID:3	** Discovery Table **
+22814	ID:3	
+22818	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+22818	ID:3	
+22822	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+22822	ID:3	
+22825	ID:3	# Broadcasting RREQ toward 2 
+22826	ID:3	
+22829	ID:3	# | Entry : 1, Node : 1 | Dest : 2 | 
+22882	ID:4	# RREQ received from 3 
+22882	ID:4	
+22885	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 |
+22888	ID:4	# Dropping duplicated RREQ !!
+22896	ID:2	# RREQ received from 3 
+22896	ID:2	
+22899	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 |
+22903	ID:2	# Sending RREP toward 1 via 3 
+22903	ID:2	
+22907	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+22918	ID:1	# RREQ received from 3 
+22919	ID:1	
+22922	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 |
+22924	ID:1	# Dropping duplicated RREQ !!
+23042	ID:1	# RREP received from 2 
+23042	ID:1	
+23046	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+23048	ID:1	** Routing Table ** 
+23048	ID:1	
+23052	ID:1	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+23052	ID:1	
+23183	ID:3	# RREP received from 2 
+23183	ID:3	
+23187	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+23189	ID:3	** Routing Table ** 
+23189	ID:3	
+23193	ID:3	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 17 | 
+23193	ID:3	
+23197	ID:3	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+23197	ID:3	
+23201	ID:3	# Sending RREP toward 1 via 1 
+23201	ID:3	
+23205	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 2 | 
+23289	ID:1	# RREP received from 3 
+23290	ID:1	
+23294	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 2 | 
+23435	ID:3	# RREQ received from 4 
+23435	ID:3	
+23438	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 |
+23440	ID:3	# Dropping duplicated RREQ !!
+23521	ID:2	# RREQ received from 4 
+23521	ID:2	
+23524	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 |
+23528	ID:2	# Sending RREP toward 1 via 4 
+23528	ID:2	
+23532	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+23543	ID:1	# RREQ received from 4 
+23544	ID:1	
+23547	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 |
+23549	ID:1	** Discovery Table **
+23549	ID:1	
+23553	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+23553	ID:1	
+23556	ID:1	# Broadcasting RREQ toward 2 
+23556	ID:1	
+23559	ID:1	# | Entry : 1, Node : 1 | Dest : 2 | 
+23632	ID:4	# RREQ received from 1 
+23632	ID:4	
+23635	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 |
+23638	ID:4	# Dropping duplicated RREQ !!
+23643	ID:2	# RREQ received from 1 
+23644	ID:2	
+23647	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 |
+23650	ID:2	# Sending RREP toward 1 via 1 
+23650	ID:2	
+23654	ID:2	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+23685	ID:3	# RREQ received from 1 
+23685	ID:3	
+23688	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 |
+23691	ID:3	# Dropping duplicated RREQ !!
+23917	ID:1	# RREP received from 2 
+23917	ID:1	
+23921	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+24007	ID:4	# RREP received from 2 
+24007	ID:4	
+24011	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 1 | 
+24013	ID:4	** Routing Table ** 
+24013	ID:4	
+24017	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 19 | 
+24017	ID:4	
+24021	ID:4	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+24021	ID:4	
+24025	ID:4	# Sending RREP toward 1 via 1 
+24025	ID:4	
+24029	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 2 | 
+24165	ID:1	# RREP received from 4 
+24165	ID:1	
+24169	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Dist : 2 | 
+27644	ID:4	** Discovery Table **
+27644	ID:4	
+27648	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+27648	ID:4	
+27652	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+27652	ID:4	
+27656	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+27656	ID:4	
+27660	ID:4	# Broadcasting RREQ toward 5 
+27660	ID:4	
+27663	ID:4	# | Entry : 1, Node : 4 | Dest : 5 | 
+27683	ID:3	# RREQ received from 4 
+27683	ID:3	
+27686	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 |
+27688	ID:3	** Discovery Table **
+27688	ID:3	
+27692	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+27693	ID:3	
+27696	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+27697	ID:3	
+27700	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+27701	ID:3	
+27704	ID:3	# Broadcasting RREQ toward 5 
+27704	ID:3	
+27707	ID:3	# | Entry : 1, Node : 4 | Dest : 5 | 
+27772	ID:2	# RREQ received from 4 
+27772	ID:2	
+27775	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 |
+27777	ID:2	** Discovery Table **
+27777	ID:2	
+27781	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+27781	ID:2	
+27785	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+27785	ID:2	
+27788	ID:2	# Broadcasting RREQ toward 5 
+27789	ID:2	
+27791	ID:1	# RREQ received from 4 
+27791	ID:1	
+27792	ID:2	# | Entry : 1, Node : 4 | Dest : 5 | 
+27794	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 |
+27796	ID:1	** Discovery Table **
+27796	ID:1	
+27800	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+27801	ID:1	
+27804	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+27805	ID:1	
+27808	ID:1	# Broadcasting RREQ toward 5 
+27808	ID:1	
+27811	ID:1	# | Entry : 1, Node : 4 | Dest : 5 | 
+27884	ID:4	# RREQ received from 1 
+27884	ID:4	
+27887	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 |
+27889	ID:4	# Dropping duplicated RREQ !!
+27895	ID:2	# RREQ received from 1 
+27895	ID:2	
+27898	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 |
+27901	ID:2	# Dropping duplicated RREQ !!
+27934	ID:3	# RREQ received from 1 
+27934	ID:3	
+27937	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 |
+27940	ID:3	# Dropping duplicated RREQ !!
+27999	ID:5	# RREQ received from 2 
+27999	ID:5	
+28002	ID:5	# | Entry : 1 | Node : 4 | Dest : 5 |
+28005	ID:5	# Sending RREP toward 4 via 2 
+28006	ID:5	
+28007	ID:4	# RREQ received from 2 
+28007	ID:4	
+28010	ID:5	# | Entry : 1 | Node : 4 | Dest : 5 | Dist : 1 | 
+28010	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 |
+28013	ID:4	# Dropping duplicated RREQ !!
+28043	ID:1	# RREQ received from 2 
+28044	ID:1	
+28047	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 |
+28049	ID:1	# Dropping duplicated RREQ !!
+28060	ID:3	# RREQ received from 2 
+28060	ID:3	
+28063	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 |
+28066	ID:3	# Dropping duplicated RREQ !!
+28519	ID:2	# RREP received from 5 
+28520	ID:2	
+28524	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Dist : 1 | 
+28525	ID:2	** Routing Table ** 
+28526	ID:2	
+28530	ID:2	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 24 | 
+28530	ID:2	
+28534	ID:2	# | Next : 5 | Dest : 5 | Dist : 1 | SeqNo : 1 | 
+28534	ID:2	
+28537	ID:2	# Sending RREP toward 4 via 4 
+28538	ID:2	
+28542	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Dist : 2 | 
+28634	ID:4	# RREP received from 2 
+28634	ID:4	
+28638	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Dist : 2 | 
+28640	ID:4	** Routing Table ** 
+28640	ID:4	
+28644	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 23 | 
+28644	ID:4	
+28648	ID:4	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 5 | 
+28649	ID:4	
+28652	ID:4	# | Next : 2 | Dest : 5 | Dist : 2 | SeqNo : 1 | 
+28653	ID:4	
+29532	ID:2	** Discovery Table **
+29532	ID:2	
+29536	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+29536	ID:2	
+29540	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+29540	ID:2	
+29544	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+29544	ID:2	
+29547	ID:2	# Broadcasting RREQ toward 3 
+29548	ID:2	
+29551	ID:2	# | Entry : 1, Node : 2 | Dest : 3 | 
+29626	ID:5	# RREQ received from 2 
+29627	ID:5	
+29630	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 |
+29631	ID:5	** Discovery Table **
+29632	ID:4	# RREQ received from 2 
+29632	ID:5	
+29632	ID:4	
+29635	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 |
+29636	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+29636	ID:5	
+29637	ID:4	** Discovery Table **
+29637	ID:4	
+29639	ID:5	# Broadcasting RREQ toward 3 
+29639	ID:5	
+29641	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+29641	ID:4	
+29642	ID:5	# | Entry : 1, Node : 2 | Dest : 3 | 
+29645	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+29645	ID:4	
+29649	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+29649	ID:4	
+29653	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+29653	ID:4	
+29656	ID:4	# Broadcasting RREQ toward 3 
+29657	ID:4	
+29660	ID:4	# | Entry : 1, Node : 2 | Dest : 3 | 
+29668	ID:1	# RREQ received from 2 
+29668	ID:1	
+29671	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 |
+29673	ID:1	** Discovery Table **
+29673	ID:1	
+29677	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+29677	ID:1	
+29681	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+29681	ID:1	
+29685	ID:3	# RREQ received from 2 
+29685	ID:3	
+29685	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+29685	ID:1	
+29688	ID:3	# | Entry : 1 | Node : 2 | Dest : 3 |
+29688	ID:1	# Broadcasting RREQ toward 3 
+29689	ID:1	
+29691	ID:3	# Sending RREP toward 2 via 2 
+29691	ID:3	
+29692	ID:1	# | Entry : 1, Node : 2 | Dest : 3 | 
+29695	ID:3	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 1 | 
+29759	ID:4	# RREQ received from 1 
+29759	ID:4	
+29762	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 |
+29765	ID:4	# Dropping duplicated RREQ !!
+29770	ID:2	# RREQ received from 1 
+29770	ID:2	
+29773	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 |
+29776	ID:2	# Dropping duplicated RREQ !!
+30147	ID:2	# RREQ received from 4 
+30147	ID:2	
+30150	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 |
+30152	ID:2	# Dropping duplicated RREQ !!
+30166	ID:1	# RREQ received from 4 
+30166	ID:1	
+30169	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 |
+30172	ID:1	# Dropping duplicated RREQ !!
+30186	ID:3	# RREQ received from 4 
+30186	ID:3	
+30189	ID:3	# | Entry : 1 | Node : 2 | Dest : 3 |
+30192	ID:3	# Sending RREP toward 2 via 4 
+30193	ID:3	
+30197	ID:3	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 1 | 
+30257	ID:4	# RREP received from 3 
+30257	ID:4	
+30261	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 1 | 
+30263	ID:4	** Routing Table ** 
+30263	ID:4	
+30267	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 25 | 
+30268	ID:4	
+30272	ID:4	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 7 | 
+30272	ID:2	# RREP received from 3 
+30272	ID:4	
+30272	ID:2	
+30276	ID:4	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 1 | 
+30276	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 1 | 
+30276	ID:4	
+30278	ID:2	** Routing Table ** 
+30278	ID:2	
+30280	ID:4	# | Next : 2 | Dest : 5 | Dist : 2 | SeqNo : 3 | 
+30280	ID:4	
+30282	ID:2	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 26 | 
+30282	ID:2	
+30284	ID:4	# Sending RREP toward 2 via 2 
+30284	ID:4	
+30286	ID:2	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 1 | 
+30286	ID:2	
+30288	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 2 | 
+30290	ID:2	# | Next : 5 | Dest : 5 | Dist : 1 | SeqNo : 3 | 
+30291	ID:2	
+30394	ID:2	# RREP received from 4 
+30395	ID:2	
+30398	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Dist : 2 | 
+35011	ID:5	** Discovery Table **
+35012	ID:5	
+35015	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+35016	ID:5	
+35020	ID:5	# | Entry : 2 | Node : 5 | Dest : 2 | Fwd : 5 |
+35020	ID:5	
+35023	ID:5	# Broadcasting RREQ toward 2 
+35023	ID:5	
+35026	ID:5	# | Entry : 2, Node : 5 | Dest : 2 | 
+35146	ID:2	# RREQ received from 5 
+35147	ID:2	
+35150	ID:2	# | Entry : 2 | Node : 5 | Dest : 2 |
+35153	ID:2	# Sending RREP toward 5 via 5 
+35153	ID:2	
+35157	ID:2	# | Entry : 2 | Node : 5 | Dest : 2 | Dist : 1 | 
+35373	ID:5	# RREP received from 2 
+35374	ID:5	
+35378	ID:5	# | Entry : 2 | Node : 5 | Dest : 2 | Dist : 1 | 
+35379	ID:5	** Routing Table ** 
+35380	ID:5	
+35384	ID:5	# | Next : 2 | Dest : 1 | Dist : 2 | SeqNo : 31 | 
+35384	ID:5	
+35388	ID:5	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+35388	ID:5	
+51197	ID:3	# Sending DATA {**NES_PROJECT**} to 2 
+51272	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+52678	ID:1	** Discovery Table **
+52678	ID:1	
+52682	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+52682	ID:1	
+52686	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+52686	ID:1	
+52690	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+52690	ID:1	
+52694	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+52694	ID:1	
+52697	ID:1	# Broadcasting RREQ toward 5 
+52698	ID:1	
+52701	ID:1	# | Entry : 2, Node : 1 | Dest : 5 | 
+52759	ID:4	# RREQ received from 1 
+52760	ID:4	
+52763	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 |
+52765	ID:4	** Discovery Table **
+52765	ID:4	
+52769	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+52769	ID:4	
+52771	ID:2	# RREQ received from 1 
+52771	ID:2	
+52773	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+52773	ID:4	
+52774	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 |
+52776	ID:2	** Discovery Table **
+52776	ID:2	
+52777	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+52777	ID:4	
+52780	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+52780	ID:2	
+52781	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+52781	ID:4	
+52784	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+52784	ID:2	
+52785	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+52785	ID:4	
+52788	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+52788	ID:4	# Broadcasting RREQ toward 5 
+52788	ID:2	
+52789	ID:4	
+52792	ID:4	# | Entry : 2, Node : 1 | Dest : 5 | 
+52792	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+52792	ID:2	
+52795	ID:2	# Broadcasting RREQ toward 5 
+52796	ID:2	
+52799	ID:2	# | Entry : 2, Node : 1 | Dest : 5 | 
+52810	ID:3	# RREQ received from 1 
+52810	ID:3	
+52813	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 |
+52815	ID:3	** Discovery Table **
+52815	ID:3	
+52819	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+52819	ID:3	
+52823	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+52823	ID:3	
+52827	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+52827	ID:3	
+52831	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+52831	ID:3	
+52834	ID:3	# Broadcasting RREQ toward 5 
+52835	ID:3	
+52838	ID:3	# | Entry : 2, Node : 1 | Dest : 5 | 
+52883	ID:4	# RREQ received from 3 
+52883	ID:4	
+52886	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 |
+52888	ID:4	# Dropping duplicated RREQ !!
+52897	ID:2	# RREQ received from 3 
+52897	ID:2	
+52900	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 |
+52902	ID:2	# Dropping duplicated RREQ !!
+52916	ID:1	# RREQ received from 3 
+52916	ID:1	
+52919	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 |
+52922	ID:1	# Dropping duplicated RREQ !!
+52999	ID:5	# RREQ received from 2 
+52999	ID:5	
+53002	ID:5	# | Entry : 2 | Node : 1 | Dest : 5 |
+53005	ID:5	# Sending RREP toward 1 via 2 
+53006	ID:5	
+53007	ID:4	# RREQ received from 2 
+53007	ID:4	
+53010	ID:5	# | Entry : 2 | Node : 1 | Dest : 5 | Dist : 1 | 
+53010	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 |
+53013	ID:4	# Dropping duplicated RREQ !!
+53043	ID:1	# RREQ received from 2 
+53044	ID:1	
+53047	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 |
+53049	ID:1	# Dropping duplicated RREQ !!
+53060	ID:3	# RREQ received from 2 
+53060	ID:3	
+53063	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 |
+53066	ID:3	# Dropping duplicated RREQ !!
+53271	ID:2	# RREP received from 5 
+53272	ID:2	
+53276	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Dist : 1 | 
+53293	ID:1	# RREQ received from 4 
+53293	ID:1	
+53296	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 |
+53299	ID:1	# Dropping duplicated RREQ !!
+53310	ID:3	# RREQ received from 4 
+53310	ID:3	
+53313	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 |
+53315	ID:3	# Dropping duplicated RREQ !!
+53396	ID:2	# RREQ received from 4 
+53397	ID:2	
+53400	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 |
+53402	ID:2	# Dropping duplicated RREQ !!
+57646	ID:4	# Sending DATA {**NES_PROJECT**} to 2 
+57772	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+59534	ID:2	# Sending DATA {**NES_PROJECT**} to 3 
+59558	ID:3	# DATA RECEIVED: {**NES_PROJECT**} 
+65011	ID:5	** Discovery Table **
+65012	ID:5	
+65015	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+65016	ID:5	
+65020	ID:5	# | Entry : 2 | Node : 5 | Dest : 2 | Fwd : 5 |
+65020	ID:5	
+65024	ID:5	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+65024	ID:5	
+65027	ID:5	# Broadcasting RREQ toward 4 
+65027	ID:5	
+65030	ID:5	# | Entry : 3, Node : 5 | Dest : 4 | 
+65145	ID:2	# RREQ received from 5 
+65145	ID:2	
+65148	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 |
+65150	ID:2	** Discovery Table **
+65150	ID:2	
+65154	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+65155	ID:2	
+65158	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+65159	ID:2	
+65162	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+65163	ID:2	
+65166	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+65167	ID:2	
+65171	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+65171	ID:2	
+65174	ID:2	# Broadcasting RREQ toward 4 
+65174	ID:2	
+65177	ID:2	# | Entry : 3, Node : 5 | Dest : 4 | 
+65250	ID:5	# RREQ received from 2 
+65251	ID:5	
+65254	ID:5	# | Entry : 3 | Node : 5 | Dest : 4 |
+65256	ID:5	# Dropping duplicated RREQ !!
+65258	ID:4	# RREQ received from 2 
+65259	ID:4	
+65262	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 |
+65265	ID:4	# Sending RREP toward 5 via 2 
+65265	ID:4	
+65269	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 1 | 
+65292	ID:1	# RREQ received from 2 
+65292	ID:1	
+65295	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 |
+65297	ID:1	** Discovery Table **
+65298	ID:1	
+65301	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+65302	ID:1	
+65305	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+65306	ID:1	
+65309	ID:3	# RREQ received from 2 
+65309	ID:3	
+65310	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+65310	ID:1	
+65312	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 |
+65314	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+65314	ID:3	** Discovery Table **
+65314	ID:1	
+65314	ID:3	
+65318	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+65318	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+65318	ID:1	
+65318	ID:3	
+65321	ID:1	# Broadcasting RREQ toward 4 
+65321	ID:1	
+65322	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+65322	ID:3	
+65324	ID:1	# | Entry : 3, Node : 5 | Dest : 4 | 
+65326	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+65326	ID:3	
+65330	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+65330	ID:3	
+65334	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+65334	ID:3	
+65337	ID:3	# Broadcasting RREQ toward 4 
+65338	ID:3	
+65341	ID:3	# | Entry : 3, Node : 5 | Dest : 4 | 
+65381	ID:4	# RREQ received from 1 
+65381	ID:4	
+65384	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 |
+65387	ID:4	# Sending RREP toward 5 via 1 
+65387	ID:4	
+65391	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 1 | 
+65395	ID:2	# RREQ received from 1 
+65395	ID:2	
+65398	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 |
+65400	ID:2	# Dropping duplicated RREQ !!
+65433	ID:3	# RREQ received from 1 
+65434	ID:3	
+65437	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 |
+65439	ID:3	# Dropping duplicated RREQ !!
+65509	ID:4	# RREQ received from 3 
+65509	ID:4	
+65512	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 |
+65515	ID:4	# Sending RREP toward 5 via 3 
+65515	ID:4	
+65519	ID:4	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 1 | 
+65520	ID:2	# RREQ received from 3 
+65520	ID:2	
+65523	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 |
+65525	ID:2	# Dropping duplicated RREQ !!
+65542	ID:1	# RREQ received from 3 
+65542	ID:1	
+65545	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 |
+65547	ID:1	# Dropping duplicated RREQ !!
+65771	ID:2	# RREP received from 4 
+65772	ID:2	
+65776	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 1 | 
+65777	ID:2	** Routing Table ** 
+65777	ID:2	
+65782	ID:2	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 62 | 
+65782	ID:2	
+65786	ID:2	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 37 | 
+65786	ID:2	
+65790	ID:2	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 1 | 
+65790	ID:2	
+65791	ID:1	# RREP received from 4 
+65791	ID:1	
+65794	ID:2	# | Next : 5 | Dest : 5 | Dist : 1 | SeqNo : 39 | 
+65795	ID:2	
+65795	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 1 | 
+65797	ID:1	** Routing Table ** 
+65797	ID:1	
+65798	ID:2	# Sending RREP toward 5 via 5 
+65798	ID:2	
+65801	ID:1	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 43 | 
+65802	ID:1	
+65802	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 2 | 
+65805	ID:1	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 1 | 
+65806	ID:1	
+65809	ID:1	# Sending RREP toward 5 via 2 
+65809	ID:1	
+65813	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 2 | 
+65872	ID:5	# RREP received from 2 
+65873	ID:5	
+65876	ID:5	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 2 | 
+65878	ID:5	** Routing Table ** 
+65878	ID:5	
+65882	ID:5	# | Next : 2 | Dest : 1 | Dist : 2 | SeqNo : 61 | 
+65883	ID:5	
+65887	ID:5	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 31 | 
+65887	ID:5	
+65891	ID:5	# | Next : 2 | Dest : 4 | Dist : 2 | SeqNo : 1 | 
+65891	ID:5	
+66146	ID:2	# RREP received from 1 
+66146	ID:2	
+66150	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Dist : 2 | 
+81197	ID:3	# Sending DATA {**NES_PROJECT**} to 2 
+81272	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+82678	ID:1	** Discovery Table **
+82678	ID:1	
+82682	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+82682	ID:1	
+82686	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+82686	ID:1	
+82690	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+82690	ID:1	
+82694	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+82694	ID:1	
+82698	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+82698	ID:1	
+82702	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+82702	ID:1	
+82705	ID:1	# Broadcasting RREQ toward 5 
+82706	ID:1	
+82709	ID:1	# | Entry : 3, Node : 1 | Dest : 5 | 
+82759	ID:4	# RREQ received from 1 
+82759	ID:4	
+82762	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 |
+82764	ID:4	** Discovery Table **
+82765	ID:4	
+82768	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+82769	ID:4	
+82770	ID:2	# RREQ received from 1 
+82771	ID:2	
+82772	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+82773	ID:4	
+82774	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 |
+82776	ID:2	** Discovery Table **
+82776	ID:2	
+82776	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+82777	ID:4	
+82780	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+82780	ID:2	
+82781	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+82781	ID:4	
+82784	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+82784	ID:2	
+82785	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+82785	ID:4	
+82788	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+82788	ID:2	
+82789	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+82789	ID:4	
+82792	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+82792	ID:4	# Broadcasting RREQ toward 5 
+82792	ID:2	
+82792	ID:4	
+82795	ID:4	# | Entry : 3, Node : 1 | Dest : 5 | 
+82796	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+82796	ID:2	
+82800	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+82800	ID:2	
+82803	ID:2	# Broadcasting RREQ toward 5 
+82804	ID:2	
+82807	ID:2	# | Entry : 3, Node : 1 | Dest : 5 | 
+82809	ID:3	# RREQ received from 1 
+82810	ID:3	
+82813	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 |
+82815	ID:3	** Discovery Table **
+82815	ID:3	
+82819	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+82819	ID:3	
+82823	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+82823	ID:3	
+82827	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+82827	ID:3	
+82831	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+82831	ID:3	
+82835	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+82835	ID:3	
+82839	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+82839	ID:3	
+82842	ID:3	# Broadcasting RREQ toward 5 
+82843	ID:3	
+82846	ID:3	# | Entry : 3, Node : 1 | Dest : 5 | 
+82882	ID:4	# RREQ received from 3 
+82883	ID:4	
+82886	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 |
+82888	ID:4	# Dropping duplicated RREQ !!
+82896	ID:2	# RREQ received from 3 
+82897	ID:2	
+82900	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 |
+82902	ID:2	# Dropping duplicated RREQ !!
+82916	ID:1	# RREQ received from 3 
+82916	ID:1	
+82919	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 |
+82921	ID:1	# Dropping duplicated RREQ !!
+83020	ID:2	# RREQ received from 4 
+83021	ID:2	
+83024	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 |
+83026	ID:2	# Dropping duplicated RREQ !!
+83042	ID:1	# RREQ received from 4 
+83043	ID:1	
+83046	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 |
+83048	ID:1	# Dropping duplicated RREQ !!
+83059	ID:3	# RREQ received from 4 
+83060	ID:3	
+83063	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 |
+83065	ID:3	# Dropping duplicated RREQ !!
+83249	ID:5	# RREQ received from 2 
+83250	ID:5	
+83253	ID:5	# | Entry : 3 | Node : 1 | Dest : 5 |
+83256	ID:5	# Sending RREP toward 1 via 2 
+83256	ID:5	
+83258	ID:4	# RREQ received from 2 
+83258	ID:4	
+83260	ID:5	# | Entry : 3 | Node : 1 | Dest : 5 | Dist : 1 | 
+83261	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 |
+83263	ID:4	# Dropping duplicated RREQ !!
+83291	ID:1	# RREQ received from 2 
+83291	ID:1	
+83294	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 |
+83297	ID:1	# Dropping duplicated RREQ !!
+83311	ID:3	# RREQ received from 2 
+83311	ID:3	
+83314	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 |
+83316	ID:3	# Dropping duplicated RREQ !!
+83521	ID:2	# RREP received from 5 
+83521	ID:2	
+83525	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 | Dist : 1 | 
+87646	ID:4	# Sending DATA {**NES_PROJECT**} to 2 
+87772	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+89534	ID:2	# Sending DATA {**NES_PROJECT**} to 3 
+89558	ID:3	# DATA RECEIVED: {**NES_PROJECT**} 
+95013	ID:5	# Sending DATA {**NES_PROJECT**} to 2 
+95147	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+111197	ID:3	# Sending DATA {**NES_PROJECT**} to 2 
+111272	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+112678	ID:1	** Discovery Table **
+112678	ID:1	
+112682	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+112682	ID:1	
+112686	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+112686	ID:1	
+112690	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+112690	ID:1	
+112694	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+112694	ID:1	
+112698	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+112698	ID:1	
+112702	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+112702	ID:1	
+112706	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+112706	ID:1	
+112709	ID:1	# Broadcasting RREQ toward 5 
+112710	ID:1	
+112713	ID:1	# | Entry : 4, Node : 1 | Dest : 5 | 
+112758	ID:4	# RREQ received from 1 
+112758	ID:4	
+112761	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 |
+112763	ID:4	** Discovery Table **
+112763	ID:4	
+112767	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+112767	ID:4	
+112771	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+112771	ID:4	
+112772	ID:2	# RREQ received from 1 
+112772	ID:2	
+112775	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 |
+112775	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+112775	ID:4	
+112777	ID:2	** Discovery Table **
+112777	ID:2	
+112779	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+112780	ID:4	
+112781	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+112781	ID:2	
+112783	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+112784	ID:4	
+112785	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+112785	ID:2	
+112787	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+112788	ID:4	
+112789	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+112789	ID:2	
+112791	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+112792	ID:4	
+112793	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+112793	ID:2	
+112795	ID:4	# Broadcasting RREQ toward 5 
+112795	ID:4	
+112797	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+112798	ID:2	
+112798	ID:4	# | Entry : 4, Node : 1 | Dest : 5 | 
+112801	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+112802	ID:2	
+112805	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+112806	ID:2	
+112808	ID:3	# RREQ received from 1 
+112808	ID:3	
+112809	ID:2	# Broadcasting RREQ toward 5 
+112809	ID:2	
+112811	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 |
+112812	ID:2	# | Entry : 4, Node : 1 | Dest : 5 | 
+112813	ID:3	** Discovery Table **
+112814	ID:3	
+112817	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+112818	ID:3	
+112821	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+112822	ID:3	
+112826	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+112826	ID:3	
+112830	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+112830	ID:3	
+112834	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+112834	ID:3	
+112838	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+112838	ID:3	
+112842	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+112842	ID:3	
+112845	ID:3	# Broadcasting RREQ toward 5 
+112845	ID:3	
+112849	ID:3	# | Entry : 4, Node : 1 | Dest : 5 | 
+112882	ID:4	# RREQ received from 3 
+112883	ID:4	
+112886	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 |
+112888	ID:4	# Dropping duplicated RREQ !!
+112896	ID:2	# RREQ received from 3 
+112897	ID:2	
+112900	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 |
+112902	ID:2	# Dropping duplicated RREQ !!
+112916	ID:1	# RREQ received from 3 
+112916	ID:1	
+112919	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 |
+112921	ID:1	# Dropping duplicated RREQ !!
+113059	ID:3	# RREQ received from 4 
+113059	ID:3	
+113062	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 |
+113064	ID:3	# Dropping duplicated RREQ !!
+113145	ID:2	# RREQ received from 4 
+113145	ID:2	
+113148	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 |
+113150	ID:2	# Dropping duplicated RREQ !!
+113167	ID:1	# RREQ received from 4 
+113168	ID:1	
+113171	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 |
+113173	ID:1	# Dropping duplicated RREQ !!
+113384	ID:4	# RREQ received from 2 
+113384	ID:4	
+113387	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 |
+113390	ID:4	# Dropping duplicated RREQ !!
+113414	ID:1	# RREQ received from 2 
+113415	ID:1	
+113418	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 |
+113420	ID:1	# Dropping duplicated RREQ !!
+113434	ID:3	# RREQ received from 2 
+113434	ID:3	
+113437	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 |
+113440	ID:3	# Dropping duplicated RREQ !!
+113501	ID:5	# RREQ received from 2 
+113501	ID:5	
+113504	ID:5	# | Entry : 4 | Node : 1 | Dest : 5 |
+113507	ID:5	# Sending RREP toward 1 via 2 
+113508	ID:5	
+113512	ID:5	# | Entry : 4 | Node : 1 | Dest : 5 | Dist : 1 | 
+113645	ID:2	# RREP received from 5 
+113645	ID:2	
+113649	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 | Dist : 1 | 
+117646	ID:4	# Sending DATA {**NES_PROJECT**} to 1 
+117668	ID:1	# DATA RECEIVED: {**NES_PROJECT**} 
+119534	ID:2	# Sending DATA {**NES_PROJECT**} to 3 
+119558	ID:3	# DATA RECEIVED: {**NES_PROJECT**} 
+123687	ID:2	# Old Route for :  1 !
+123689	ID:2	** Routing Table ** 
+123689	ID:2	
+123694	ID:2	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 95 | 
+123694	ID:2	
+123698	ID:2	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 59 | 
+123698	ID:2	
+123702	ID:2	# | Next : 5 | Dest : 5 | Dist : 1 | SeqNo : 97 | 
+123702	ID:2	
+124010	ID:5	# Old Route for :  1 !
+124012	ID:5	** Routing Table ** 
+124012	ID:5	
+124016	ID:5	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 90 | 
+124017	ID:5	
+124021	ID:5	# | Next : 2 | Dest : 4 | Dist : 2 | SeqNo : 60 | 
+124021	ID:5	
+124800	ID:4	# Old Route for :  1 !
+124801	ID:4	** Routing Table ** 
+124802	ID:4	
+124806	ID:4	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 102 | 
+124806	ID:4	
+124810	ID:4	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 96 | 
+124811	ID:4	
+124815	ID:4	# | Next : 2 | Dest : 5 | Dist : 2 | SeqNo : 98 | 
+124815	ID:4	
+125013	ID:5	# Sending DATA {**NES_PROJECT**} to 2 
+125146	ID:2	# DATA RECEIVED: {**NES_PROJECT**} 
+125343	ID:3	# Old Route for :  1 !
+125345	ID:3	** Routing Table ** 
+125345	ID:3	
+125349	ID:3	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 104 | 
+125349	ID:3	
+141195	ID:3	** Discovery Table **
+141195	ID:3	
+141199	ID:3	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+141199	ID:3	
+141203	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+141203	ID:3	
+141207	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+141207	ID:3	
+141211	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+141211	ID:3	
+141215	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+141215	ID:3	
+141219	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+141220	ID:3	
+141223	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+141224	ID:3	
+141227	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+141228	ID:3	
+141231	ID:3	# Broadcasting RREQ toward 1 
+141231	ID:3	
+141234	ID:3	# | Entry : 1, Node : 3 | Dest : 1 | 
+141259	ID:4	# RREQ received from 3 
+141260	ID:4	
+141263	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 |
+141265	ID:4	** Discovery Table **
+141265	ID:4	
+141269	ID:4	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 3 |
+141269	ID:4	
+141271	ID:2	# RREQ received from 3 
+141271	ID:2	
+141273	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+141273	ID:4	
+141274	ID:2	# | Entry : 1 | Node : 3 | Dest : 1 |
+141276	ID:2	** Discovery Table **
+141276	ID:2	
+141277	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+141277	ID:4	
+141280	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+141280	ID:2	
+141281	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+141281	ID:4	
+141284	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+141284	ID:2	
+141285	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+141285	ID:4	
+141288	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+141288	ID:2	
+141289	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+141289	ID:4	
+141292	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+141292	ID:2	
+141293	ID:1	# RREQ received from 3 
+141293	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+141293	ID:1	
+141293	ID:4	
+141296	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 |
+141296	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+141296	ID:2	
+141297	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+141297	ID:4	
+141299	ID:1	# Sending RREP toward 3 via 3 
+141300	ID:1	
+141300	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+141300	ID:4	# Broadcasting RREQ toward 1 
+141300	ID:2	
+141301	ID:4	
+141304	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 1 | 
+141304	ID:4	# | Entry : 1, Node : 3 | Dest : 1 | 
+141304	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+141305	ID:2	
+141308	ID:2	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+141309	ID:2	
+141312	ID:2	# Broadcasting RREQ toward 1 
+141312	ID:2	
+141315	ID:2	# | Entry : 1, Node : 3 | Dest : 1 | 
+141373	ID:3	# Old Route for :  2 !
+141375	ID:3	** Routing Table ** 
+141375	ID:3	# Empty
+141522	ID:2	# RREQ received from 4 
+141523	ID:2	
+141526	ID:2	# | Entry : 1 | Node : 3 | Dest : 1 |
+141528	ID:2	# Dropping duplicated RREQ !!
+141542	ID:1	# RREQ received from 4 
+141542	ID:1	
+141545	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 |
+141548	ID:1	# Sending RREP toward 3 via 4 
+141548	ID:1	
+141552	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 1 | 
+141558	ID:3	# RREQ received from 4 
+141558	ID:3	
+141561	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 |
+141564	ID:3	# Dropping duplicated RREQ !!
+141751	ID:5	# RREQ received from 2 
+141751	ID:5	
+141754	ID:5	# | Entry : 1 | Node : 3 | Dest : 1 |
+141756	ID:5	** Discovery Table **
+141756	ID:5	
+141759	ID:4	# RREQ received from 2 
+141759	ID:4	
+141760	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+141760	ID:5	
+141762	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 |
+141764	ID:5	# | Entry : 2 | Node : 5 | Dest : 2 | Fwd : 5 |
+141764	ID:5	
+141765	ID:4	# Dropping duplicated RREQ !!
+141768	ID:5	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+141768	ID:5	
+141772	ID:5	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 2 |
+141772	ID:5	
+141775	ID:5	# Broadcasting RREQ toward 1 
+141776	ID:5	
+141779	ID:5	# | Entry : 1, Node : 3 | Dest : 1 | 
+141793	ID:1	# RREQ received from 2 
+141793	ID:1	
+141796	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 |
+141799	ID:1	# Sending RREP toward 3 via 2 
+141799	ID:1	
+141803	ID:1	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 1 | 
+141806	ID:3	# RREQ received from 2 
+141807	ID:3	
+141810	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 |
+141812	ID:3	# Dropping duplicated RREQ !!
+141934	ID:3	# RREP received from 1 
+141934	ID:3	
+141938	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 1 | 
+141940	ID:3	** Routing Table ** 
+141940	ID:3	
+141944	ID:3	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 1 | 
+141944	ID:3	
+142009	ID:4	# RREP received from 1 
+142009	ID:4	
+142009	ID:1	# Old Route for :  2 !
+142011	ID:1	** Routing Table ** 
+142011	ID:1	
+142013	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 1 | 
+142014	ID:4	** Routing Table ** 
+142015	ID:4	
+142015	ID:1	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 78 | 
+142015	ID:1	
+142019	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 1 | 
+142019	ID:4	
+142023	ID:4	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 119 | 
+142023	ID:4	
+142028	ID:4	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 113 | 
+142028	ID:4	
+142032	ID:4	# | Next : 2 | Dest : 5 | Dist : 2 | SeqNo : 115 | 
+142032	ID:4	
+142036	ID:4	# Sending RREP toward 3 via 3 
+142036	ID:4	
+142040	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 2 | 
+142043	ID:4	# Sending RREP toward 3 via 3 
+142043	ID:4	
+142047	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 2 | 
+142184	ID:3	# RREP received from 4 
+142184	ID:3	
+142188	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 2 | 
+142192	ID:3	# RREP received from 4 
+142192	ID:3	
+142196	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Dist : 2 | 
+142678	ID:1	** Discovery Table **
+142678	ID:1	
+142682	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+142682	ID:1	
+142686	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+142686	ID:1	
+142690	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+142690	ID:1	
+142694	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+142694	ID:1	
+142698	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+142698	ID:1	
+142702	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+142702	ID:1	
+142706	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+142706	ID:1	
+142710	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 | Fwd : 1 |
+142710	ID:1	
+142714	ID:1	# Broadcasting RREQ toward 2 
+142714	ID:1	
+142717	ID:1	# | Entry : 5, Node : 1 | Dest : 2 | 
+142759	ID:4	# RREQ received from 1 
+142759	ID:4	
+142762	ID:4	# | Entry : 5 | Node : 1 | Dest : 2 |
+142764	ID:4	** Discovery Table **
+142764	ID:4	
+142768	ID:4	# | Entry : 5 | Node : 1 | Dest : 2 | Fwd : 1 |
+142768	ID:4	
+142770	ID:2	# RREQ received from 1 
+142770	ID:2	
+142772	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+142772	ID:4	
+142773	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 |
+142776	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+142777	ID:4	
+142777	ID:2	# Sending RREP toward 1 via 1 
+142777	ID:2	
+142780	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+142781	ID:4	
+142781	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 1 | 
+142784	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+142785	ID:4	
+142788	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+142789	ID:4	
+142793	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+142793	ID:4	
+142797	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+142797	ID:4	
+142800	ID:4	# Broadcasting RREQ toward 2 
+142800	ID:4	
+142803	ID:4	# | Entry : 5, Node : 1 | Dest : 2 | 
+142809	ID:3	# RREQ received from 1 
+142810	ID:3	
+142813	ID:3	# | Entry : 5 | Node : 1 | Dest : 2 |
+142814	ID:3	** Discovery Table **
+142815	ID:3	
+142815	ID:4	# Old Route for :  2 !
+142817	ID:4	** Routing Table ** 
+142817	ID:4	
+142818	ID:3	# | Entry : 5 | Node : 1 | Dest : 2 | Fwd : 1 |
+142819	ID:3	
+142821	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 2 | 
+142822	ID:4	
+142823	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+142823	ID:3	
+142826	ID:4	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 114 | 
+142826	ID:4	
+142827	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+142827	ID:3	
+142830	ID:4	# | Next : 2 | Dest : 5 | Dist : 2 | SeqNo : 116 | 
+142831	ID:4	
+142831	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+142831	ID:3	
+142835	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+142835	ID:3	
+142839	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+142839	ID:3	
+142843	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+142843	ID:3	
+142847	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+142847	ID:3	
+142850	ID:3	# Broadcasting RREQ toward 2 
+142851	ID:3	
+142854	ID:3	# | Entry : 5, Node : 1 | Dest : 2 | 
+142882	ID:4	# RREQ received from 3 
+142882	ID:4	
+142885	ID:4	# | Entry : 5 | Node : 1 | Dest : 2 |
+142888	ID:4	# Dropping duplicated RREQ !!
+142896	ID:2	# RREQ received from 3 
+142896	ID:2	
+142899	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 |
+142902	ID:2	# Sending RREP toward 1 via 3 
+142903	ID:2	
+142907	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 1 | 
+142918	ID:1	# RREQ received from 3 
+142918	ID:1	
+142921	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 |
+142924	ID:1	# Dropping duplicated RREQ !!
+143041	ID:1	# RREQ received from 4 
+143041	ID:1	
+143044	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 |
+143047	ID:1	# Dropping duplicated RREQ !!
+143058	ID:3	# RREQ received from 4 
+143058	ID:3	
+143061	ID:3	# | Entry : 5 | Node : 1 | Dest : 2 |
+143064	ID:3	# Dropping duplicated RREQ !!
+143147	ID:2	# RREQ received from 4 
+143147	ID:2	
+143150	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 |
+143153	ID:2	# Sending RREP toward 1 via 4 
+143153	ID:2	
+143157	ID:2	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 1 | 
+143292	ID:1	# RREP received from 2 
+143293	ID:1	
+143297	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 1 | 
+143298	ID:1	** Routing Table ** 
+143299	ID:1	
+143302	ID:1	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+143303	ID:1	
+143307	ID:1	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 79 | 
+143307	ID:1	
+143309	ID:3	# RREP received from 2 
+143310	ID:3	
+143314	ID:3	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 1 | 
+143315	ID:3	** Routing Table ** 
+143316	ID:3	
+143319	ID:3	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 2 | 
+143320	ID:3	
+143324	ID:3	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+143324	ID:3	
+143327	ID:3	# Sending RREP toward 1 via 1 
+143328	ID:3	
+143332	ID:3	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 2 | 
+143416	ID:1	# RREP received from 3 
+143416	ID:1	
+143420	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 | Dist : 2 | 
+146831	ID:4	# Old Route for :  5 !
+146833	ID:4	** Routing Table ** 
+146833	ID:4	
+146836	ID:2	# Old Route for :  5 !
+146837	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 6 | 
+146837	ID:4	
+146838	ID:2	** Routing Table ** 
+146838	ID:2	
+146841	ID:4	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 118 | 
+146842	ID:4	
+146842	ID:2	# | Next : 3 | Dest : 3 | Dist : 1 | SeqNo : 118 | 
+146842	ID:2	
+146846	ID:2	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 82 | 
+146847	ID:2	
+147646	ID:4	# Sending DATA {**NES_PROJECT**} to 1 
+147668	ID:1	# DATA RECEIVED: {**NES_PROJECT**} 
+148839	ID:4	# Old Route for :  3 !
+148840	ID:4	** Routing Table ** 
+148840	ID:4	
+148844	ID:2	# Old Route for :  3 !
+148844	ID:4	# | Next : 1 | Dest : 1 | Dist : 1 | SeqNo : 8 | 
+148845	ID:4	
+148845	ID:2	** Routing Table ** 
+148846	ID:2	
+148850	ID:2	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 84 | 
+148850	ID:2	
+149532	ID:2	** Discovery Table **
+149532	ID:2	
+149536	ID:2	# | Entry : 1 | Node : 5 | Dest : 1 | Fwd : 4 |
+149536	ID:2	
+149540	ID:2	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+149540	ID:2	
+149544	ID:2	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+149544	ID:2	
+149548	ID:2	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+149548	ID:2	
+149552	ID:2	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+149552	ID:2	
+149556	ID:2	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+149556	ID:2	
+149560	ID:2	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+149560	ID:2	
+149564	ID:2	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+149564	ID:2	
+149568	ID:2	# | Entry : 2 | Node : 2 | Dest : 5 | Fwd : 2 |
+149569	ID:2	
+149572	ID:2	# Broadcasting RREQ toward 5 
+149572	ID:2	
+149575	ID:2	# | Entry : 2, Node : 2 | Dest : 5 | 
+149626	ID:5	# RREQ received from 2 
+149626	ID:5	
+149629	ID:5	# | Entry : 2 | Node : 2 | Dest : 5 |
+149632	ID:5	# Sending RREP toward 2 via 2 
+149633	ID:5	
+149634	ID:4	# RREQ received from 2 
+149634	ID:4	
+149637	ID:5	# | Entry : 2 | Node : 2 | Dest : 5 | Dist : 1 | 
+149637	ID:4	# | Entry : 2 | Node : 2 | Dest : 5 |
+149639	ID:4	** Discovery Table **
+149639	ID:4	
+149643	ID:4	# | Entry : 5 | Node : 1 | Dest : 2 | Fwd : 1 |
+149643	ID:4	
+149647	ID:4	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+149648	ID:4	
+149651	ID:4	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+149652	ID:4	
+149655	ID:4	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+149656	ID:4	
+149659	ID:4	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+149660	ID:4	
+149664	ID:4	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+149664	ID:4	
+149668	ID:4	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+149668	ID:1	# RREQ received from 2 
+149668	ID:4	
+149668	ID:1	
+149671	ID:1	# | Entry : 2 | Node : 2 | Dest : 5 |
+149672	ID:4	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+149672	ID:4	
+149673	ID:1	** Discovery Table **
+149673	ID:1	
+149676	ID:4	# | Entry : 2 | Node : 2 | Dest : 5 | Fwd : 2 |
+149676	ID:4	
+149677	ID:1	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 4 |
+149677	ID:1	
+149679	ID:4	# Broadcasting RREQ toward 5 
+149679	ID:4	
+149681	ID:1	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+149681	ID:1	
+149682	ID:4	# | Entry : 2, Node : 2 | Dest : 5 | 
+149684	ID:3	# RREQ received from 2 
+149685	ID:3	
+149685	ID:1	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+149685	ID:1	
+149688	ID:3	# | Entry : 2 | Node : 2 | Dest : 5 |
+149689	ID:1	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+149689	ID:1	
+149689	ID:3	** Discovery Table **
+149690	ID:3	
+149693	ID:1	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+149693	ID:1	
+149694	ID:3	# | Entry : 2 | Node : 2 | Dest : 5 | Fwd : 2 |
+149694	ID:3	
+149697	ID:1	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+149698	ID:1	
+149698	ID:3	# | Entry : 1 | Node : 1 | Dest : 2 | Fwd : 1 |
+149698	ID:3	
+149701	ID:1	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+149702	ID:1	
+149702	ID:3	# | Entry : 1 | Node : 4 | Dest : 5 | Fwd : 4 |
+149702	ID:3	
+149705	ID:1	# | Entry : 5 | Node : 1 | Dest : 2 | Fwd : 1 |
+149706	ID:1	
+149706	ID:3	# | Entry : 2 | Node : 1 | Dest : 5 | Fwd : 1 |
+149706	ID:3	
+149709	ID:1	# | Entry : 2 | Node : 2 | Dest : 5 | Fwd : 2 |
+149710	ID:1	
+149710	ID:3	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 2 |
+149710	ID:3	
+149713	ID:1	# Broadcasting RREQ toward 5 
+149713	ID:1	
+149714	ID:3	# | Entry : 3 | Node : 1 | Dest : 5 | Fwd : 1 |
+149714	ID:3	
+149716	ID:1	# | Entry : 2, Node : 2 | Dest : 5 | 
+149718	ID:3	# | Entry : 4 | Node : 1 | Dest : 5 | Fwd : 1 |
+149718	ID:3	
+149722	ID:3	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 3 |
+149722	ID:3	
+149725	ID:3	# Broadcasting RREQ toward 5 
+149726	ID:3	
+149729	ID:3	# | Entry : 2, Node : 2 | Dest : 5 | 
+149758	ID:4	# RREQ received from 1 
+149759	ID:4	
+149762	ID:4	# | Entry : 2 | Node : 2 | Dest : 5 |
+149764	ID:4	# Dropping duplicated RREQ !!
+149772	ID:2	# RREQ received from 1 
+149773	ID:2	
+149776	ID:2	# | Entry : 2 | Node : 2 | Dest : 5 |
+149778	ID:2	# Dropping duplicated RREQ !!
+149808	ID:3	# RREQ received from 1 
+149809	ID:3	
+149812	ID:3	# | Entry : 2 | Node : 2 | Dest : 5 |
+149814	ID:3	# Dropping duplicated RREQ !!
+150259	ID:4	# RREQ received from 3 
+150259	ID:4	
+150262	ID:4	# | Entry : 2 | Node : 2 | Dest : 5 |
+150265	ID:4	# Dropping duplicated RREQ !!
+150270	ID:2	# RREQ received from 3 
+150270	ID:2	
+150273	ID:2	# | Entry : 2 | Node : 2 | Dest : 5 |
+150276	ID:2	# Dropping duplicated RREQ !!
+150289	ID:1	# RREQ received from 3 
+150290	ID:1	
+150293	ID:1	# | Entry : 2 | Node : 2 | Dest : 5 |
+150295	ID:1	# Dropping duplicated RREQ !!
+150396	ID:2	# RREP received from 5 
+150397	ID:2	
+150401	ID:2	# | Entry : 2 | Node : 2 | Dest : 5 | Dist : 1 | 
+150402	ID:2	** Routing Table ** 
+150402	ID:2	
+150407	ID:2	# | Next : 4 | Dest : 4 | Dist : 1 | SeqNo : 85 | 
+150407	ID:2	
+150411	ID:2	# | Next : 5 | Dest : 5 | Dist : 1 | SeqNo : 1 | 
+150411	ID:2	
+154158	ID:5	# Old Route for :  2 !
+154160	ID:5	** Routing Table ** 
+154160	ID:5	
+154164	ID:5	# | Next : 2 | Dest : 4 | Dist : 2 | SeqNo : 90 | 
+154165	ID:5	
+155011	ID:5	** Discovery Table **
+155011	ID:5	
+155015	ID:5	# | Entry : 1 | Node : 2 | Dest : 3 | Fwd : 2 |
+155015	ID:5	
+155019	ID:5	# | Entry : 2 | Node : 5 | Dest : 2 | Fwd : 5 |
+155019	ID:5	
+155023	ID:5	# | Entry : 3 | Node : 5 | Dest : 4 | Fwd : 5 |
+155023	ID:5	
+155027	ID:5	# | Entry : 1 | Node : 3 | Dest : 1 | Fwd : 2 |
+155027	ID:5	
+155031	ID:5	# | Entry : 4 | Node : 5 | Dest : 2 | Fwd : 5 |
+155031	ID:5	
+155034	ID:5	# Broadcasting RREQ toward 2 
+155035	ID:5	
+155038	ID:5	# | Entry : 4, Node : 5 | Dest : 2 | 
+155147	ID:2	# RREQ received from 5 
+155147	ID:2	
+155150	ID:2	# | Entry : 4 | Node : 5 | Dest : 2 |
+155153	ID:2	# Sending RREP toward 5 via 5 
+155154	ID:2	
+155158	ID:2	# | Entry : 4 | Node : 5 | Dest : 2 | Dist : 1 | 
+155374	ID:5	# RREP received from 2 
+155374	ID:5	
+155378	ID:5	# | Entry : 4 | Node : 5 | Dest : 2 | Dist : 1 | 
+155380	ID:5	** Routing Table ** 
+155380	ID:5	
+155384	ID:5	# | Next : 2 | Dest : 2 | Dist : 1 | SeqNo : 1 | 
+155384	ID:5	
+155388	ID:5	# | Next : 2 | Dest : 4 | Dist : 2 | SeqNo : 91 | 
+155388	ID:5	

@@ -1,0 +1,105 @@
+503	ID:2	Rime started with address 2.0
+512	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 2.
+521	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+526	ID:2	uIP started with IP address 172.16.2.0
+532	ID:2	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+534	ID:2	## Start of AODV ##
+615	ID:4	Rime started with address 4.0
+624	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 4.
+634	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+639	ID:4	uIP started with IP address 172.16.4.0
+644	ID:4	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+646	ID:4	## Start of AODV ##
+649	ID:1	Rime started with address 1.0
+658	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 1.
+667	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+672	ID:1	uIP started with IP address 172.16.1.0
+678	ID:1	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+680	ID:1	## Start of AODV ##
+982	ID:5	Rime started with address 5.0
+991	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 5.
+1000	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1005	ID:5	uIP started with IP address 172.16.5.0
+1011	ID:5	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+1013	ID:5	## Start of AODV ##
+1166	ID:3	Rime started with address 3.0
+1175	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.0-6-g545131393 started. Node id is set to 3.
+1185	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1190	ID:3	uIP started with IP address 172.16.3.0
+1195	ID:3	Starting 'Establish connection' 'RREQ_Packet msgs' 'Send Data' 'Sequence Number'
+1197	ID:3	## Start of AODV ##
+6721	ID:1	** Discovery Table **
+6721	ID:1	
+6721	ID:1	# | Entry : 1 | Node : 1 | Dest : 5 | Fwd : 1 |
+6721	ID:1	
+6724	ID:1	# Broadcasting RREQ toward 5 
+6724	ID:1	
+6727	ID:1	# | Entry : 1, Node : 1 | Dest : 5 | 
+6750	ID:5	# RREQ received from 1 
+6751	ID:5	
+6754	ID:5	# | Entry : 1 | Node : 1 | Dest : 5 |
+6757	ID:5	# Sending RREP toward 1 via 1 
+6757	ID:5	
+6759	ID:4	# RREQ received from 1 
+6759	ID:4	
+6761	ID:5	# | Entry : 1 | Node : 1 | Dest : 5 | Dist : 1 | 
+6762	ID:4	# | Entry : 1 | Node : 1 | Dest : 5 |
+6764	ID:4	** Discovery Table **
+6764	ID:4	
+6768	ID:4	# | Entry : 1 | Node : 1 | Dest : 5 | Fwd : 1 |
+6768	ID:4	
+6770	ID:2	# RREQ received from 1 
+6770	ID:2	
+6771	ID:4	# Broadcasting RREQ toward 5 
+6772	ID:4	
+6773	ID:2	# | Entry : 1 | Node : 1 | Dest : 5 |
+6775	ID:4	# | Entry : 1, Node : 1 | Dest : 5 | 
+6775	ID:2	** Discovery Table **
+6775	ID:2	
+6779	ID:2	# | Entry : 1 | Node : 1 | Dest : 5 | Fwd : 1 |
+6779	ID:2	
+6782	ID:2	# Broadcasting RREQ toward 5 
+6783	ID:2	
+6786	ID:2	# | Entry : 1, Node : 1 | Dest : 5 | 
+6809	ID:3	# RREQ received from 1 
+6809	ID:3	
+6812	ID:3	# | Entry : 1 | Node : 1 | Dest : 5 |
+6814	ID:3	** Discovery Table **
+6814	ID:3	
+6818	ID:3	# | Entry : 1 | Node : 1 | Dest : 5 | Fwd : 1 |
+6818	ID:3	
+6821	ID:3	# Broadcasting RREQ toward 5 
+6822	ID:3	
+6825	ID:3	# | Entry : 1, Node : 1 | Dest : 5 | 
+7134	ID:4	# RREQ received from 3 
+7134	ID:4	
+7137	ID:4	# | Entry : 1 | Node : 1 | Dest : 5 |
+7139	ID:4	# Dropping duplicated RREQ !!
+7145	ID:2	# RREQ received from 3 
+7145	ID:2	
+7148	ID:2	# | Entry : 1 | Node : 1 | Dest : 5 |
+7151	ID:2	# Dropping duplicated RREQ !!
+7167	ID:1	# RREQ received from 3 
+7168	ID:1	
+7171	ID:1	# | Entry : 1 | Node : 1 | Dest : 5 |
+7173	ID:1	# Dropping duplicated RREQ !!
+7250	ID:5	# RREQ received from 2 
+7250	ID:5	
+7253	ID:5	# | Entry : 1 | Node : 1 | Dest : 5 |
+7256	ID:5	# Sending RREP toward 1 via 2 
+7257	ID:5	
+7258	ID:4	# RREQ received from 2 
+7258	ID:4	
+7261	ID:5	# | Entry : 1 | Node : 1 | Dest : 5 | Dist : 1 | 
+7261	ID:4	# | Entry : 1 | Node : 1 | Dest : 5 |
+7264	ID:4	# Dropping duplicated RREQ !!
+7292	ID:1	# RREQ received from 2 
+7292	ID:1	
+7295	ID:1	# | Entry : 1 | Node : 1 | Dest : 5 |
+7297	ID:1	# Dropping duplicated RREQ !!
+7308	ID:3	# RREQ received from 2 
+7309	ID:3	
+7312	ID:3	# | Entry : 1 | Node : 1 | Dest : 5 |
+7314	ID:3	# Dropping duplicated RREQ !!
+7418	ID:1	Route Error at  Source : 1 and Destination : 5 
+7523	ID:2	Route Error at  Source : 1 and Destination : 5 
